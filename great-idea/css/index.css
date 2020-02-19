@@ -49,7 +49,7 @@ table {
 
 /* Set every element's box-sizing to border-box */
 * {
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 html, body {
@@ -69,6 +69,7 @@ nav{
 	text-align: center;
 	width: 100%;
 	background-color: grey;
+	padding-bottom: 40px;
 		
 }
 nav:hover{
@@ -143,7 +144,7 @@ h2{
 	border-bottom: 2px solid grey;
 }
 .middle-img{
-	width: 95%;
+	width: 98px;
 	padding: 20px;
 	text-align: center;
 }
@@ -152,4 +153,84 @@ h2{
 }
 h3{
 	text-align: center;
+}
+.services-header-img{
+	
+	padding: 10px;
+	width: 100%;	
+}
+.service{
+	padding: 20px;
+	border-bottom: 2px solid black;
+}
+.design-ux{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-top: 30px 0;
+    padding: 20px;
+}
+.dd{
+    padding: 50px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;
+}
+.UX{
+	padding: 50px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;
+}
+.Marketing{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 30px 0;
+    padding: 20px;
+}
+.Digital{
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;
+
+}
+.Developement{
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;
+}
+.ios-andriod{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 30px 0;
+    padding: 20px;
+}
+.ios-dev{
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;
+}
+.android{
+	padding: 30px;
+	border: 1px solid black;
+	background-color: lightgrey;
+	width: 570px;	
+}
+.facts{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 30px 0;
+}
+.service-facts{
+	padding: 30px;
+	width: 570px;
+}
+footer{
+	justify-content: center;
 }
