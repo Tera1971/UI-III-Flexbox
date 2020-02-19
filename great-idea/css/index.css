@@ -69,11 +69,12 @@ nav{
 	text-align: center;
 	width: 100%;
 	background-color: grey;
-	
+		
 }
 nav:hover{
 	background-color: lightslategray;
 	display: flex;
+
 }
 a{
 	flex-direction: row;
