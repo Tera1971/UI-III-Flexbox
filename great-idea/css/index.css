@@ -155,9 +155,9 @@ h3{
 	text-align: center;
 }
 .services-header-img{
-	
-	padding: 0 10px;
-	width: 95%;	
+	justify-content: center;
+	padding: 20px;
+	width: 98%;	
 }
 .service{
 	padding: 20px;
