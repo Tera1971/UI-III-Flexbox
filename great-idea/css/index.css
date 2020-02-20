@@ -160,7 +160,7 @@ h3{
 	width: 98%;	
 }
 .service{
-	padding: 20px;
+	padding: 30px;
 	border-bottom: 2px solid black;
 }
 .button{
@@ -236,4 +236,34 @@ h3{
 }
 .copyright{
 	justify-content: center;
+}
+.product{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding: 30px 0;
+    padding: 20px;
+	border-bottom: 1px solid black;
+}
+.technology2{
+	width: 100%;
+
+}
+.plasma{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding: 30px 0;
+    padding: 20px;
+
+}
+.robot{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	padding: 30px 0;
+    padding: 20px;
+
 }
