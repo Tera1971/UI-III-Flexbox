@@ -237,6 +237,9 @@ h3{
 	padding: 30px;
 	width: 570px;
 }
+.service-facts ul{
+	padding-left: 18px;
+}
 
 .copyright{
 	justify-content: center;
